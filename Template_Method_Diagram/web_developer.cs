@@ -14,5 +14,6 @@ namespace Template_Method_Diagram
             Console.WriteLine(" need computer science studying year 3 or over."+
                               "\n and then need html,css,javascript,typescript and angular framwork.");
         }
+        private double yes;
     }
 }

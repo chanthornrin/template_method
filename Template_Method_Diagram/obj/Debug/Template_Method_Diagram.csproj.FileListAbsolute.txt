@@ -4,3 +4,6 @@ c:\users\backend\documents\visual studio 2015\Projects\Template_Method_Diagram\T
 c:\users\backend\documents\visual studio 2015\Projects\Template_Method_Diagram\Template_Method_Diagram\bin\Debug\Template_Method_Diagram.pdb
 c:\users\backend\documents\visual studio 2015\Projects\Template_Method_Diagram\Template_Method_Diagram\obj\Debug\Template_Method_Diagram.exe
 c:\users\backend\documents\visual studio 2015\Projects\Template_Method_Diagram\Template_Method_Diagram\obj\Debug\Template_Method_Diagram.pdb
+C:\Users\Backend\Documents\Project\template_method\Template_Method_Diagram\bin\Debug\Template_Method_Diagram.exe.config
+C:\Users\Backend\Documents\Project\template_method\Template_Method_Diagram\obj\Debug\Template_Method_Diagram.exe
+C:\Users\Backend\Documents\Project\template_method\Template_Method_Diagram\obj\Debug\Template_Method_Diagram.pdb
