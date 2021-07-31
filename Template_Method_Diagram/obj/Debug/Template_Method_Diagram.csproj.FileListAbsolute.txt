@@ -1,0 +1,6 @@
+c:\users\backend\documents\visual studio 2015\Projects\Template_Method_Diagram\Template_Method_Diagram\bin\Debug\Template_Method_Diagram.exe.config
+c:\users\backend\documents\visual studio 2015\Projects\Template_Method_Diagram\Template_Method_Diagram\obj\Debug\Template_Method_Diagram.csprojResolveAssemblyReference.cache
+c:\users\backend\documents\visual studio 2015\Projects\Template_Method_Diagram\Template_Method_Diagram\bin\Debug\Template_Method_Diagram.exe
+c:\users\backend\documents\visual studio 2015\Projects\Template_Method_Diagram\Template_Method_Diagram\bin\Debug\Template_Method_Diagram.pdb
+c:\users\backend\documents\visual studio 2015\Projects\Template_Method_Diagram\Template_Method_Diagram\obj\Debug\Template_Method_Diagram.exe
+c:\users\backend\documents\visual studio 2015\Projects\Template_Method_Diagram\Template_Method_Diagram\obj\Debug\Template_Method_Diagram.pdb
